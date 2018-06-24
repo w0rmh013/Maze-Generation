@@ -39,7 +39,7 @@ public class MazeDraw extends JFrame {
             g2D.setColor(Color.GREEN);
             g2D.fill(new Rectangle2D.Float(cell_size + offset, cell_size + offset, cell_size, cell_size));
 
-            g2D.fill(new Rectangle2D.Float(cell_size * maze.getRows() + offset, cell_size * maze.getCols() + offset,
+            g2D.fill(new Rectangle2D.Float(cell_size * maze.getCols() + offset, cell_size * maze.getRows() + offset,
                     cell_size, cell_size));
 
             g2D.setPaint(Color.BLACK);

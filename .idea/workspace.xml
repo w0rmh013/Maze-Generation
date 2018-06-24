@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae9ddeb7-1f9c-4eb4-af47-57cef0cd905f" name="Default" comment="" />
+    <list default="true" id="ae9ddeb7-1f9c-4eb4-af47-57cef0cd905f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MazeGeneration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MazeGeneration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/maze/MazeDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maze/MazeDraw.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MazeGeneration.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MazeGeneration.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MazeGeneration.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MazeDraw.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MazeDraw.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/maze/MazeDraw.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+            <state relative-caret-position="288">
+              <caret line="41" column="106" selection-start-line="41" selection-start-column="106" selection-end-line="41" selection-end-column="106" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#118#145#0" expanded="true" />
@@ -100,6 +104,9 @@
       <replace>HashMap&lt;MazeCell, Side&gt;</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -110,18 +117,19 @@
         <option value="$PROJECT_DIR$/src/MazeCell/MazeCell.java" />
         <option value="$PROJECT_DIR$/src/Maze/MazeCell.java" />
         <option value="$PROJECT_DIR$/src/maze/MazeCell.java" />
-        <option value="$PROJECT_DIR$/src/maze/MazeDraw.java" />
         <option value="$PROJECT_DIR$/src/maze/MazeGrid.java" />
         <option value="$PROJECT_DIR$/src/MazeGeneration.java" />
+        <option value="$PROJECT_DIR$/src/maze/MazeDraw.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
     <option name="height" value="1100" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -245,7 +253,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298969" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
@@ -300,6 +308,16 @@
     <entry file="file://$PROJECT_DIR$/maze_generation.JPG">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MazeGeneration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/maze/MazeGrid.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -336,23 +354,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/maze/MazeDraw.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+        <state relative-caret-position="288">
+          <caret line="41" column="106" selection-start-line="41" selection-start-column="106" selection-end-line="41" selection-end-column="106" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#118#145#0" expanded="true" />
             <element signature="e#212#213#0" expanded="true" />
             <element signature="e#231#232#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MazeGeneration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
